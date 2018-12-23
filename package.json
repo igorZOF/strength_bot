@@ -1,0 +1,17 @@
+{
+  "name": "course-telegram-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.28.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  },
+  "description": ""
+}
